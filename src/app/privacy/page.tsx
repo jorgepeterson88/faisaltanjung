@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Link } from 'next/link';
+import Link from 'next/link';
 import { ArrowLeft, Shield, Eye, Lock, Database, UserCheck, Cookie } from 'lucide-react';
 
 export default function PrivacyPolicy() {

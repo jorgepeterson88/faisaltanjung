@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Link } from 'next/link';
+import Link from 'next/link';
 import { ArrowLeft, FileText, AlertCircle, CheckCircle, Scale, Clock, Users } from 'lucide-react';
 
 export default function TermsCondition() {
